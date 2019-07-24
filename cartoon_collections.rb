@@ -26,7 +26,7 @@ def find_the_cheese(food)
   
   result = nil
   
-  
+  food.reduce
   
   
   food.
