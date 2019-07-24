@@ -24,7 +24,7 @@ def find_the_cheese(food)
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
   
-  result = FALSE
+  result = nil
   
   
   
