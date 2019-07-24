@@ -29,11 +29,11 @@ def find_the_cheese(food)
   cheese_types.each do |cheese| 
   
   if(food.include?(cheese))
-    result 
+    return cheese
   end
   
 end
-  
-  food.
+ return result 
+ 
 end
 
